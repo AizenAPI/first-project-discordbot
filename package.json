@@ -1,0 +1,12 @@
+{
+  "name": "ok",
+  "version": "0.1.0",
+  "description": "Mon premier projet en développement (Bot Discord)",
+  "main": "main.js",
+  "repository": "https://github.com/AizenAPI/first-project-discordbot.git",
+  "author": "AizenAPI <gslpetergsl@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "discordjs/discord.js"
+  }
+}
